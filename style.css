@@ -1,0 +1,33 @@
+html{
+    background:black;
+    border: 2cap;
+    background-origin:border-box;
+}
+body{
+    background:black;
+    background-image: url(image1.jpeg);
+    background-position: 120%;
+    color:white;
+    background-repeat: no-repeat;
+    background-size:cover;
+    border: 2cm;
+    border-color:aliceblue;
+    }
+h1{
+    font-display:initial;
+    font-weight:bold;
+    color:white
+  }
+p{
+    font-style:bold;
+    font-size: 15px;
+    font-display:center;
+}
+.flex{
+    text-align: center;
+    background-position:0cap;
+
+}
+#button{
+        font: bolder 14pt Arial; 
+         }
